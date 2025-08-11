@@ -22,7 +22,8 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with React.js for the user interface, Appwrite for backend services, and styled with TailwindCSS, this Movie App lets users browse trending movies, search titles, and explore content using the TMDB API. It features a responsive layout and a sleek, modern design.
+JetFlix a responsive movie browsing web application built with React.js, powered by the TMDb API. Users can search for movies, view detailed information, and explore trending and top-rated films in real time. Features include a modern UI, dynamic routing, and optimized API fetching for smooth performance.
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
